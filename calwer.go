@@ -69,7 +69,7 @@ type PrivateData struct {
 
 func main(){
 	var reqBody PrivateBody
-	URLS :=[]string{"https://thumb.qschou.com/files/qschou.com/project/medical_certificate/15527852422579018783g6dbfb3abff215bf96638d63da666dc93b.jpeg@!large.png"}
+	URLS :=[]string{"https://15527852422579018783g6dbfb3abff215bf96638d63da666dc93b.jpeg@!large.png"}
 	reqBody.Classifier="total"
 	reqBody.Content= "各位好心人，"
 	reqBody.CreatedAt="1552785242"
