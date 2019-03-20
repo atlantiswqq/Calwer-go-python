@@ -1,2 +1,3 @@
 # calwer golang compare to python
-just a test,i am not very familiar with golang.
+1. main.go for get method.
+2. calwer.go for post method.
